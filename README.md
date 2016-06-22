@@ -1,9 +1,10 @@
 ![](https://cloud.githubusercontent.com/assets/110953/7877439/6a69d03e-0590-11e5-9fac-c614246606de.png)
-## Polymer Starter Kit
+![](https://drive.google.com/file/d/1tCeWM8MfgxJSsDf_PgymcEtbBMJkGfyucg/view?usp=sharing)
+## Serious Polymer Base
 
-> A starting point for building web applications with Polymer 1.0
+> A starting point for a Heathy Skin  1.0
 
-### Included out of the box:
+### wonder what's in the box?:
 
 * [Polymer](https://www.polymer-project.org/), [Paper](https://elements.polymer-project.org/browse?package=paper-elements), [Iron](https://elements.polymer-project.org/browse?package=iron-elements) and [Neon](https://elements.polymer-project.org/browse?package=neon-elements) elements
 * [Material Design](http://www.google.com/design/spec/material-design/introduction.html) layout
