@@ -1,5 +1,5 @@
 ![](https://cloud.githubusercontent.com/assets/110953/7877439/6a69d03e-0590-11e5-9fac-c614246606de.png)
-![](https://drive.google.com/file/d/1tCeWM8MfgxJSsDf_PgymcEtbBMJkGfyucg/view?usp=sharing)
+![](http://www.seriousrageweb.com/pictures/001-MASTER/images/greatBlach.jpg)
 ## Serious Polymer Base
 
 > A starting point for a Heathy Skin  1.0
